@@ -58,7 +58,6 @@ This project is built using:
 - Flutter
 - Dart
 - flutter_bloc
-- Material Design
 
 ---
 
