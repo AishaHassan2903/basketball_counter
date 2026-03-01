@@ -1,4 +1,4 @@
-# 🏀 Basketball Points Counter
+# Basketball Counter
 
 Basketball Points Counter is a simple Flutter application that tracks basketball scores for two teams and automatically detects the winner when a team reaches 15 points.
 
@@ -13,13 +13,13 @@ To run the project, make sure Flutter is installed on your machine.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/basketball_points.git
+git clone https://github.com/AishaHassan2903/basketball_counter
 ```
 
 Go to the project folder:
 
 ```bash
-cd basketball_points
+cd basketball_counter
 ```
 
 Install dependencies:
