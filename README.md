@@ -22,7 +22,7 @@ A simple Flutter app to track basketball scores for two teams and detect the win
 - [Project Structure](#-project-structure)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Author & Feedback](#-author--feedback)
+- [Author](#-author)
 
 ---
 
@@ -158,7 +158,7 @@ You are free to:
 
 ---
 
-## 👩‍💻 Author & Feedback
+## 👩‍💻 Author
 
 - GitHub: [@Aisha Hassan](https://github.com/AishaHassan2903)  
 - LinkedIn: [@Aisha Hassan](https://www.linkedin.com/in/aisha-hassan-dahy?utm_source=share_via&utm_content=profile&utm_medium=member_android)
