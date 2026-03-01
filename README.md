@@ -158,7 +158,7 @@ You are free to:
 
 ---
 
-## 👩‍💻 Author
+## 💌 Author & Feedback
 
 - GitHub: [@Aisha Hassan](https://github.com/AishaHassan2903)  
 - LinkedIn: [@Aisha Hassan](https://www.linkedin.com/in/aisha-hassan-dahy?utm_source=share_via&utm_content=profile&utm_medium=member_android)
