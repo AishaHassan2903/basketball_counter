@@ -14,16 +14,15 @@ A simple Flutter app to track basketball scores for two teams and detect the win
 
 ---
 
-## 🗂️ Table of Contents
+## 📋 Table of Contents
 
-- [Features](#-features)
-- [Getting Started](#-getting-started)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [Demo](#-demo)
-- [License](#-license)
-- [Author & Feedback](#-author---feedback)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author & Feedback](#author--feedback)
 
 ---
 
